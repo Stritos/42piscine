@@ -5,5 +5,7 @@ From 14th of Aug 2023 to 8th of september 2023 I have participated in the Piscin
 
 I have been able to succesfully pass the Piscine, and received the opportunity to join the school as a full time student.
 
+The main objective of the Piscine was to offer a foundation of linux, shell and the C programming language, the majority of projects being around C.
+
 This repository contains all the projects (excluding exams) that I have been able to complete in a 4 week-time period.
 
